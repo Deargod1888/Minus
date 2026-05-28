@@ -1,7 +1,9 @@
 @@ -1,7 +1,158 @@
 ## Hi there 👋
 ### Hello World, I'm Aandrei :
-![Deadpool](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N2NidXN4Y3g0M3lsbXJlemFwYTZ0ZnduN3FvZXE2b3M0cmZ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQpZK1IFfMv7v6o/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY3cWUyYTUwNDRiY290Znp2NndiNHF0ZDhzcmp1NWdhbGtjOHh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1uOzKXVMW9LBYgtNa/giphy.gif" width="300" alt="Deadpool bailando Bye Bye Bye"/>
+</p>
 -----
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
