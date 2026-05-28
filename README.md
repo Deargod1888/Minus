@@ -1,40 +1,40 @@
 @@ -1,7 +1,158 @@
-## Hola 👋
-### Hola mundo, soy Aandrei
-<img src=" https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY3cWUyYTUwNDRiY290Znp2NndiNHF0ZDhzcmp1NWdhbGtjOHh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1uOzKXVMW9LBYgtNa/giphy.gif " width="300" alt="Deadpool bailando Bye Bye Bye"/>
+## Hi there 👋
+### Hello World, I'm Aandrei :
+![Deadpool](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N2NidXN4Y3g0M3lsbXJlemFwYTZ0ZnduN3FvZXE2b3M0cmZ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQpZK1IFfMv7v6o/giphy.gif)
 -----
-Soy una persona con gran atención al detalle, que busca avanzar en mi creciente carrera tecnológica como desarrollador de software y aportar mis habilidades para la resolución de problemas para diseñar soluciones eficaces junto con compañeros con ideas afines.
+#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-### Mis habilidades 👩‍💻
-- *Programación competitiva*
-<tabla>
+### My skills :woman_technologist:
+- **Competitive Coding**
+<table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/python/python-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/java/java-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
 </tr>
 </tbody>
-</tabla>
+</table>
 
-- *Desarrollo web*
-<tabla>
+- **Web Development**
+<table>
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/mysql/mysql-official.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=100px src=" https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg ">
+<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
 </td>
 
 </td>
@@ -43,89 +43,89 @@ Soy una persona con gran atención al detalle, que busca avanzar en mi creciente
 
 
 <td align="center" width="33%">
-<img height=100px src=" https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg ">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
 <td align="center" width="33%">
-<img height=100px src=" https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg ">
+<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=100px src=" https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg ">
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 <tr>
  
  </tr>
 </tbody>
-</tabla>
+</table>
 
-- *Ciencia de datos*
-  - Visualización de datos
-  - Análisis de datos
- <tabla>
+- **Data Science**
+  - Data Visualization
+  - Data Analysis
+ <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/python/python-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
 </td>
 </tr>
 </tbody>
-</tabla>
+</table>
 
-### Actualmente estoy aprendiendo 📖
-- *Programación competitiva*
-    - Programación dinámica
+### I'm currently learning :open_book:
+- **Competitive Coding**
+    - Dynamic Programming
     
-- *Desarrollo web*
-<tabla>
+- **Web Development**
+<table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
-</tabla>
+</table>
 
- - *Ciencia de datos*
-   - Aprendizaje automático
-   - Inteligencia Artificial
+ - **Data Science**
+   - Machine Learning
+   - Artificial Intelligence
     
 <br>
 <p align="center">
-<img align="center" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical " alt="Mis estadísticas de Github">
-<img align="center" src=" https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true " alt="Mis estadísticas de Github">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
-<br> <br><a href=" https://twitter.com/shreyaaaaaaaaa_ ">
- 
-  <img align="left" alt="Twitter de Shreya" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg " />
-</a><a href=" https://www.linkedin.com/in/shreyachatterjee05/ ">
-
-  <img align="left" alt="Perfil de LinkedIn de Shreya" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg " />
-</a><a href=" https://github.com/Shreya549 ">
-
-  <img align="left" alt="Github de Shreya" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg " />
-</a><a href=" https://www.instagram.com/the_strange_concoction/ ">
-
-  <img align="left" alt="Instagram de Shreya" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg " />
-</a><a href=" https://www.facebook.com/shreya.chatterjee.31105674 ">
-
-  <img align="left" alt="Facebook de Shreya" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg " />
-</a><a href=" https://www.hackerrank.com/shreyachatterje2 ">
-
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg " />
+<br> <br>
+ <a href="https://twitter.com/shreyaaaaaaaaa_">
+  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shreyachatterjee05/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Shreya549">
+  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/the_strange_concoction/">
+  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/shreya.chatterjee.31105674">
+  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/shreyachatterje2">
+  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
 
-#### Gracias por tu visita ❤️
-![VisitorCount]( https://profile-counter.glitch.me/Shreya549/count.svg )
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
 
 
@@ -133,37 +133,37 @@ Soy una persona con gran atención al detalle, que busca avanzar en mi creciente
 <br>
 
 <!--
-*mauropacotaype-ctrl/mauropacotaype-ctrl* es un repositorio ✨ especial ✨ porque su README.md (este archivo) aparece en tu perfil de GitHub.
-<tabla>
+**mauropacotaype-ctrl/mauropacotaype-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
 <td align="center" width="50%">
-<img height=60px src=" https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg ">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
-</tabla>
+</table>
 <br>
 <p align="center">
-  <img align="center" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical " />
-<img align="center" src=" https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical " alt="Mis estadísticas de Github">
-</p><a href=" https://github.com/Shreya549 ">
-
-  <img align="center" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
+</p>
+<a href="https://github.com/Shreya549">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
 </a>
-*Shreya549/Shreya549* es un repositorio ✨ especial ✨ porque su README.md (este archivo) aparece en tu perfil de GitHub.
+**Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Aquí tienes algunas ideas para empezar:
+Here are some ideas to get you started:
 
-@@ -14,3 +165,8 @@ Aquí tienes algunas ideas para empezar:
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
+@@ -14,3 +165,8 @@ Here are some ideas to get you started:
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 ----
-Crédito: [Deargod1888]( https://github.com/Shreya549 )
+Credit: [Deargod1888](https://github.com/Shreya549)
 
-Última edición: 27/05/202
+Last Edited on: 27/05/2026
